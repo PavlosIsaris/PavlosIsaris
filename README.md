@@ -19,8 +19,8 @@
 - 💬 Ask me about whatever comes to your mind!
 - 🧳 I love travelling all over the world and meet new people and cultures
 - 📚 I usually read about programming, history and philosophy.
-- 📫 How to reach me: [mailto:paulisaris@gmail.com](paulisaris@gmail.com)
-- ⚡ Fun fact: during the 3-month quarantine of 2020 I ran over 700 kilometers! 🏃
+- 📫 How to reach me: [paulisaris@gmail.com](mailto:paulisaris@gmail.com)
+- ⚡ Fun fact: during the 4-month quarantine of 2020 I ran over 700 kilometers! 🏃
 
 ### Checkout my Blog Posts on [Dev.to](https://dev.to/pavlosisaris) & [paulisaris.com](https://paulisaris.com)
 
