@@ -12,7 +12,7 @@
 
 ### About me 
 
-- 🔭 I’m currently working as a Senior Sofware Engineer & Scrum Master @[https://www.scify.gr/site/en/](SciFY)
+- 🔭 I’m currently working as a Senior Sofware Engineer & Scrum Master @[SciFY](https://www.scify.gr/site/en/)
 - 🌱 I’m currently learning Machine Learning & AI
 - 👯 I’m looking to collaborate on various projects, technical writing and more! Just ping me!
 - ✍🏻 I write programming related articles at [dev.to](https://dev.to/pavlosisaris) and [paulisaris.com](https://paulisaris.com/)
