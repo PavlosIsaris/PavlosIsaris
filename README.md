@@ -14,13 +14,12 @@
 
 - 🔭 Senior Sofware Engineer & Scrum Master @[SciFY](https://www.scify.gr/site/en/)
 - 🌱 Learning Machine Learning & AI
-- 👯 Looking to collaborate on various projects, technical writing and more! Just ping me with your idea!
+- 👯 Looking to collaborate on various projects, technical writing, and more! Just ping me with your idea!
 - ✍🏻 Technical blogger at [dev.to](https://dev.to/pavlosisaris) and [paulisaris.com](https://paulisaris.com/)
 - 💬 Ask me about whatever comes to your mind!
-- 🧳 I love travelling all over the world and meet new people and cultures (20 countries and counting...)
-- 📚 I love reading about programming, history and philosophy.
+- 🧳 I love traveling all over the world and meeting new people and cultures (20 countries and counting...)
+- 📚 I love reading about programming, history, and philosophy.
 - 📫 How to reach me: [paulisaris@gmail.com](mailto:paulisaris@gmail.com)
-- ⚡ Fun fact: during the 4-month quarantine of 2020 I ran over 700 kilometers! 🏃
 
 ### Checkout my Blog Posts on [Dev.to](https://dev.to/pavlosisaris) & [paulisaris.com](https://paulisaris.com)
 
