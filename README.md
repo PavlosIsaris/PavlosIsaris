@@ -19,7 +19,7 @@
 - 🧳 I love traveling all over the world and meeting new people and cultures
 - 📷 Amateur photographer
 - 📚 I enjoy reading books and playing the guitar and the harmonica
-- 📫 How to reach me: Via my [LinkedIn profile]([mailto:paulisaris@gmail.com](https://www.linkedin.com/in/pavlosisaris/))
+- 📫 How to reach me: Via my [LinkedIn profile](https://www.linkedin.com/in/pavlosisaris/)
 
 ### Checkout my Blog Posts on [paulisaris.com](https://paulisaris.com) & [Dev.to](https://dev.to/pavlosisaris)
 
