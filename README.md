@@ -27,8 +27,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavlosIsaris&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-![](https://github-readme-stats.vercel.app/api?username=PavlosIsaris&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PavlosIsaris&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PavlosIsaris&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=PavlosIsaris&theme=light&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=PavlosIsaris&theme=light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PavlosIsaris&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
