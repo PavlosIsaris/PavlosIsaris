@@ -26,6 +26,9 @@
 <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavlosIsaris&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=PavlosIsaris&show_icons=true&title_color=1F75C8&icon_color=2AA410&text_color=043667&bg_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+![](https://github-readme-stats.vercel.app/api?username=PavlosIsaris&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=PavlosIsaris&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PavlosIsaris&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
