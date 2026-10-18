@@ -13,7 +13,7 @@
 ### About me 
 
 - 🔭 Head Of Engineering & Scrum Master @[SciFY](https://www.scify.gr/site/en/)
-- 🥷 Experienced Software Engineer, with a passion about Clean Code & Clean Architecture
+- 🥷 Experienced Software Engineer, passionate for Clean Code & Clean Architecture
 - 🌱 Learning Machine Learning & AI
 - 👯 Looking to collaborate on various projects, technical writing, and more! Just ping me with your idea!
 - ✍🏻 Blogger at [paulisaris.dev](https://paulisaris.dev/) and [dev.to](https://dev.to/pavlosisaris) 
